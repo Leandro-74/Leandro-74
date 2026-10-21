@@ -4,16 +4,6 @@
 
 **Engenharia de Software (UDESC) · Open-source · Linux, Android e engenharia reversa**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-ambrosio-rodrigues/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Leandro-74)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leandro0rodriguea@gmail.com)
-
-</div>
-
----
-
-## Stack
-
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](#)
@@ -26,6 +16,8 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](#)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)](#)
 [![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat)](#)
+
+</div>
 
 ---
 
@@ -79,3 +71,8 @@ Técnico em Administração e acadêmico de Engenharia de Software. Me interesso
 | [MelobudsNext-Rust](https://github.com/Leandro-74/MelobudsNext-Rust) | Reescrita do zero em Rust com interface gráfica, corrigindo bugs do original | Rust, iced |
 | [DownTube](https://github.com/Leandro-74/DownTube) | Wrapper do yt-dlp com CLI para baixar músicas, vídeos e playlists | Python, yt-dlp |
 | [Classes](https://github.com/Leandro-74/Classes) | Atividades e projetos do curso de Engenharia de Software | Java |
+
+## Contatos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-ambrosio-rodrigues/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leandro0rodriguea@gmail.com)
