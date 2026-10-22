@@ -67,6 +67,7 @@ Técnico em Administração e acadêmico de Engenharia de Software. Me interesso
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [HuskyNext](https://github.com/Leandro-74/HuskyNext) | Controle do teclado Husky Sled no Linux, criado por engenharia reversa do programa oficial para Windows | Python, CLI |
+| [HuskyNext-Rust](https://github.com/Leandro-74/HuskyNext-Rust) | Reescrita do projeto em Rust com interface Iced e novas funções | Rust, iced |
 | [MelobudsNext](https://github.com/Leandro-74/MelobudsNext) | Controle e monitoramento do fone Melobuds Pro pelo computador (Windows e Linux), criado por engenharia reversa do app oficial do Android | Python, TUI, BLE |
 | [MelobudsNext-Rust](https://github.com/Leandro-74/MelobudsNext-Rust) | Reescrita do zero em Rust com interface gráfica, corrigindo bugs do original | Rust, iced |
 | [DownTube](https://github.com/Leandro-74/DownTube) | Wrapper do yt-dlp com CLI para baixar músicas, vídeos e playlists | Python, yt-dlp |
