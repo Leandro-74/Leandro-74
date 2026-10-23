@@ -39,7 +39,7 @@
 
 ## Resumo
 
-Técnico em Administração e acadêmico de Engenharia de Software. Me interesso por open-source, desenvolvimento de sistemas (Linux/Android), engenharia reversa e criação de ferramentas em Python e Rust. Mexo com ADB, shell e customizações de Android, e gosto de servidores, homelabs e redes. Uso Arch Linux e Ubuntu Server no dia a dia e estruturo projetos com OpenCode e ferramentas de ecossistema e automação.
+Técnico em Administração e acadêmico de Engenharia de Software. Me interesso por open-source, desenvolvimento de sistemas (Linux/Android), engenharia reversa e criação de ferramentas em Python e Rust. Mexo com ADB, shell e customizações de Android, e gosto de construir servidores, homelabs e infraestrutura de redes. Uso Arch Linux e Ubuntu Server no dia a dia e estruturo projetos com OpenCode e ferramentas de ecossistema e automação.
 
 ## Experiência
 
