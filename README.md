@@ -70,6 +70,7 @@ Técnico em Administração e acadêmico de Engenharia de Software. Me interesso
 | [HuskyNext-Rust](https://github.com/Leandro-74/HuskyNext-Rust) | Reescrita do projeto em Rust com interface Iced e novas funções | Rust, iced |
 | [MelobudsNext](https://github.com/Leandro-74/MelobudsNext) | Controle e monitoramento do fone Melobuds Pro pelo computador (Windows e Linux), criado por engenharia reversa do app oficial do Android | Python, TUI, BLE |
 | [MelobudsNext-Rust](https://github.com/Leandro-74/MelobudsNext-Rust) | Reescrita do zero em Rust com interface gráfica, corrigindo bugs do original | Rust, iced |
+| [archlab](https://github.com/Leandro-74/archlab) | Script POSIX de instalação do Arch Linux em chroot | Shell, ADB |
 | [DownTube](https://github.com/Leandro-74/DownTube) | Wrapper do yt-dlp com CLI para baixar músicas, vídeos e playlists | Python, yt-dlp |
 | [Classes](https://github.com/Leandro-74/Classes) | Atividades e projetos do curso de Engenharia de Software | Java |
 
