@@ -28,13 +28,6 @@
   <img alt="Snake no grid de contribuições" src="https://raw.githubusercontent.com/Leandro-74/Leandro-74/output/snake.svg">
 </picture>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Leandro-74&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-74&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais usadas"/>
-
-</div>
-
 ---
 
 ## Resumo
@@ -70,6 +63,7 @@ Técnico em Administração e acadêmico de Engenharia de Software. Me interesso
 | [HuskyNext-Rust](https://github.com/Leandro-74/HuskyNext-Rust) | Reescrita do projeto em Rust com interface Iced e novas funções | Rust, iced |
 | [MelobudsNext](https://github.com/Leandro-74/MelobudsNext) | Controle e monitoramento do fone Melobuds Pro pelo computador (Windows e Linux), criado por engenharia reversa do app oficial do Android | Python, TUI, BLE |
 | [MelobudsNext-Rust](https://github.com/Leandro-74/MelobudsNext-Rust) | Reescrita do zero em Rust com interface gráfica, corrigindo bugs do original | Rust, iced |
+| [EasyDrop](https://github.com/Leandro-74/EasyDrop) | Compartilhamento de arquivos por proximidade, por NFC ou Bluetooth | Kotlin, BLE, NFC, Wifi Direct | 
 | [archlab](https://github.com/Leandro-74/archlab) | Script POSIX de instalação do Arch Linux em chroot | Shell, ADB |
 | [DownTube](https://github.com/Leandro-74/DownTube) | Wrapper do yt-dlp com CLI para baixar músicas, vídeos e playlists | Python, yt-dlp |
 | [Classes](https://github.com/Leandro-74/Classes) | Atividades e projetos do curso de Engenharia de Software | Java |
