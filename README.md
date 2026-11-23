@@ -2,7 +2,7 @@
 
 # Leandro Ambrosio Rodrigues
 
-**Engenharia de Software (UDESC) · Open-source · Linux, Android e engenharia reversa**
+**Software Engineering (UDESC) · Open source · Linux, Android and reverse engineering**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](#)
@@ -21,55 +21,55 @@
 
 ---
 
-## Atividade no GitHub
+## GitHub Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leandro-74/Leandro-74/output/snake-dark.svg">
-  <img alt="Snake no grid de contribuições" src="https://raw.githubusercontent.com/Leandro-74/Leandro-74/output/snake.svg">
+  <img alt="Snake on the contributions grid" src="https://raw.githubusercontent.com/Leandro-74/Leandro-74/output/snake.svg">
 </picture>
 
 ---
 
-## Resumo
+## Summary
 
-Técnico em Administração e acadêmico de Engenharia de Software. Me interesso por open-source, desenvolvimento de sistemas (Linux/Android), engenharia reversa e criação de ferramentas em Python e Rust. Mexo com ADB, shell e customizações de Android, e gosto de construir servidores, homelabs e infraestrutura de redes. Uso Arch Linux e Ubuntu Server no dia a dia e estruturo projetos com OpenCode e ferramentas de ecossistema e automação.
+Holder of a technical degree in Business Administration and Software Engineering student. I'm interested in open source, systems development (Linux/Android), reverse engineering, and building tools in Python and Rust. I work with ADB, shell, and Android customizations, and I enjoy building servers, homelabs, and network infrastructure. I use Arch Linux and Ubuntu Server day to day and structure projects with OpenCode and automation ecosystem tools.
 
-## Experiência
+## Experience
 
-**Estagiário · Setor de Patrimônio e Convênios** · Prefeitura Municipal de José Boiteux · *jan/2025 – presente*
+**Intern · Asset and Agreements Department** · City Hall of José Boiteux · *Jan 2025 – present*
 
-- **Planejamento e gestão de convênios:** acompanhamento e organização dos processos de convênios do município.
-- **Controle de patrimônio:** gestão e controle dos bens patrimoniais e serviços relacionados.
-- **Automações e dados:** gestão de planilhas, dados e documentos, com automação de rotinas do setor.
+- **Agreement planning and management:** tracking and organizing the municipality's agreement (convênio) processes.
+- **Asset control:** management and control of municipal property and related services.
+- **Automation and data:** managing spreadsheets, data, and documents, and automating the department's routines.
 
-## Formação
+## Education
 
-- **Bacharelado em Engenharia de Software** · UDESC (CEAVI) · *2026 – em andamento (2º semestre)*
-- **Técnico em Administração (integrado ao ensino médio)** · IFC – Ibirama · *2023 – 2025*
+- **Bachelor's Degree in Software Engineering** · UDESC (CEAVI) · *2026 – ongoing (2nd semester)*
+- **Technical Degree in Business Administration (integrated with high school)** · IFC – Ibirama · *2023 – 2025*
 
-## Competências
+## Skills
 
-- **Desenvolvimento:** Python (CLI/TUI), Rust (GUI com iced), Java, Shell
-- **Sistemas e redes:** Linux (Arch Linux, Ubuntu Server), servidores e homelab, gerenciamento de redes
-- **Android:** ADB, shell e customizações em geral
-- **Engenharia reversa:** análise de protocolos e aplicativos (Wireshark, USB/BLE)
-- **Ferramentas:** Git, OpenCode e ecossistema de automação
+- **Development:** Python (CLI/TUI), Rust (GUI with iced), Java, Shell
+- **Systems and networking:** Linux (Arch Linux, Ubuntu Server), servers and homelab, network management
+- **Android:** ADB, shell, and customizations in general
+- **Reverse engineering:** protocol and application analysis (Wireshark, USB/BLE)
+- **Tools:** Git, OpenCode, and the automation ecosystem
 
-## Projetos
+## Projects
 
-| Projeto | Descrição | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| [HuskyNext](https://github.com/Leandro-74/HuskyNext) | Controle do teclado Husky Sled no Linux, criado por engenharia reversa do programa oficial para Windows | Python, CLI |
-| [HuskyNext-Rust](https://github.com/Leandro-74/HuskyNext-Rust) | Reescrita do projeto em Rust com interface Iced e novas funções | Rust, iced |
-| [MelobudsNext](https://github.com/Leandro-74/MelobudsNext) | Controle e monitoramento do fone Melobuds Pro pelo computador (Windows e Linux), criado por engenharia reversa do app oficial do Android | Python, TUI, BLE |
-| [MelobudsNext-Rust](https://github.com/Leandro-74/MelobudsNext-Rust) | Reescrita do zero em Rust com interface gráfica, corrigindo bugs do original | Rust, iced |
-| [EasyDrop](https://github.com/Leandro-74/EasyDrop) | Compartilhamento de arquivos por proximidade, por NFC ou Bluetooth | Kotlin, BLE, NFC, Wifi Direct |
-| [o1s-kernel-custom](https://github.com/Leandro-74/o1s-kernel-custom) | Kernel customizado para LineageOS, implementa BakaSU e otimizações | C |
-| [archlab](https://github.com/Leandro-74/archlab) | Script POSIX de instalação do Arch Linux em chroot | Shell, ADB |
-| [DownTube](https://github.com/Leandro-74/DownTube) | Wrapper do yt-dlp com CLI para baixar músicas, vídeos e playlists | Python, yt-dlp |
-| [Classes](https://github.com/Leandro-74/Classes) | Atividades e projetos do curso de Engenharia de Software | Java |
+| [HuskyNext](https://github.com/Leandro-74/HuskyNext) | Control for the Husky Sled keyboard on Linux, built by reverse engineering the official Windows program | Python, CLI |
+| [HuskyNext-Rust](https://github.com/Leandro-74/HuskyNext-Rust) | Rewrite of the project in Rust with an Iced interface and new features | Rust, iced |
+| [MelobudsNext](https://github.com/Leandro-74/MelobudsNext) | Control and monitoring of the Melobuds Pro earbuds from a computer (Windows and Linux), built by reverse engineering the official Android app | Python, TUI, BLE |
+| [MelobudsNext-Rust](https://github.com/Leandro-74/MelobudsNext-Rust) | Rewritten from scratch in Rust with a graphical interface, fixing bugs from the original | Rust, iced |
+| [EasyDrop](https://github.com/Leandro-74/EasyDrop) | Proximity file sharing via NFC or Bluetooth | Kotlin, BLE, NFC, Wifi Direct |
+| [o1s-kernel-custom](https://github.com/Leandro-74/o1s-kernel-custom) | Custom kernel for LineageOS, implementing BakaSU and optimizations | C |
+| [archlab](https://github.com/Leandro-74/archlab) | POSIX script to install Arch Linux in a chroot | Shell, ADB |
+| [DownTube](https://github.com/Leandro-74/DownTube) | yt-dlp wrapper with a CLI for downloading music, videos, and playlists | Python, yt-dlp |
+| [Classes](https://github.com/Leandro-74/Classes) | Activities and projects from the Software Engineering course | Java |
 
-## Contatos
+## Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-ambrosio-rodrigues/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leandro0rodriguea@gmail.com)
