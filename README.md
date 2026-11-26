@@ -65,6 +65,7 @@ Holder of a technical degree in Business Administration and Software Engineering
 | [MelobudsNext-Rust](https://github.com/Leandro-74/MelobudsNext-Rust) | Rewritten from scratch in Rust with a graphical interface, fixing bugs from the original | Rust, iced |
 | [EasyDrop](https://github.com/Leandro-74/EasyDrop) | Proximity file sharing via NFC or Bluetooth | Kotlin, BLE, NFC, Wifi Direct |
 | [o1s-kernel-custom](https://github.com/Leandro-74/o1s-kernel-custom) | Custom kernel for LineageOS, implementing BakaSU and optimizations | C |
+| [AuctionReport](https://github.com/Leandro-74/AuctionReport) | Builds Excel reports for auctioned municipal assets. | Python, Excel, SQLite |
 | [archlab](https://github.com/Leandro-74/archlab) | POSIX script to install Arch Linux in a chroot | Shell, ADB |
 | [DownTube](https://github.com/Leandro-74/DownTube) | yt-dlp wrapper with a CLI for downloading music, videos, and playlists | Python, yt-dlp |
 | [Classes](https://github.com/Leandro-74/Classes) | Activities and projects from the Software Engineering course | Java |
